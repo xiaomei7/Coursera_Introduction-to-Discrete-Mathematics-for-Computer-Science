@@ -3,3 +3,5 @@
 
 ## WP = What is a Proof?
 ## CP = Combinatorics and Probability
+## IGT = Introduction to Graph Theory
+## NTC = Number Theory and Cryptography
