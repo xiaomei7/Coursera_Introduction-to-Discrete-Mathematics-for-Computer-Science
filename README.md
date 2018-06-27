@@ -5,3 +5,5 @@
 ## CP = Combinatorics and Probability
 ## IGT = Introduction to Graph Theory
 ## NTC = Number Theory and Cryptography
+## DP = Delivery Problem
+	Traveling Salesman problem
